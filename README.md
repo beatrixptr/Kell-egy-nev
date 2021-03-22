@@ -17,16 +17,16 @@ Leírás
   </p>
 </a>
 <a name="dok"></a>
-## 🎨 Dokumentáció<br><br>
+<h2> 🎨 Dokumentáció</h2> <br><br>
 <a name="funkKov"/>
-Funkcionális követelmények<br>
+<h3> Funkcionális követelmények</h3><br>
  &nbsp;&nbsp;&nbsp; -Minimum 3 játékmód implementálása<br>
   &nbsp;&nbsp;&nbsp;-Pontrendszer megléte<br>
   &nbsp;&nbsp;&nbsp;-Tapasztalat-rendszer megléte<br>
 </a>
 
 <a name="nemFunkKov"/>
-Nem funkcionális:
+<h3>Nem funkcionális:</h3>
 	-MSSQL használata
 </a>
 
