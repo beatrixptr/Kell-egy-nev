@@ -27,7 +27,7 @@ Leírás
 
 <a name="nemFunkKov"/>
 <h3>Nem funkcionális:</h3>
-	-MSSQL használata
+&nbsp;&nbsp;&nbsp;-MSSQL használata
 </a>
 
 
