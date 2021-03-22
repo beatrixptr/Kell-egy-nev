@@ -19,10 +19,10 @@ Leírás
 <a name="dok"></a>
 ## 🎨 Dokumentáció
 <a name="funkKov"/>
-Funkcionális követelmények
- -Minimum 3 játékmód implementálása
- -Pontrendszer megléte
- -Tapasztalat-rendszer megléte
+Funkcionális követelmények<br>
+ &nbsp;&nbsp;&nbsp; -Minimum 3 játékmód implementálása<br>
+  &nbsp;&nbsp;&nbsp;-Pontrendszer megléte<br>
+  &nbsp;&nbsp;&nbsp;-Tapasztalat-rendszer megléte<br>
 </a>
 
 <a name="nemFunkKov"/>
