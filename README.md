@@ -17,7 +17,7 @@ Leírás
   </p>
 </a>
 <a name="dok"></a>
-## 🎨 Dokumentáció
+## 🎨 Dokumentáció<br><br>
 <a name="funkKov"/>
 Funkcionális követelmények<br>
  &nbsp;&nbsp;&nbsp; -Minimum 3 játékmód implementálása<br>
