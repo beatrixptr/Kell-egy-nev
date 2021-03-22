@@ -4,8 +4,8 @@
 ## 📜 Tartalomjegyzék
 [Leírás](#leiras)  <br>
 [Dokumentáció](#dok) <br>
-  [Funkcionális követelmények](#funkKov) <br>
-  [Nem funkcionális követelmények](#nemFunkKov) <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Funkcionális követelmények](#funkKov) <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Nem funkcionális követelmények](#nemFunkKov) <br>
 
 <a name="headers"/>
 <h3>
