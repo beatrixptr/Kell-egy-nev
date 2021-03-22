@@ -2,10 +2,10 @@
 
 
 ## 📜 Tartalomjegyzék
-[Leírás](#leiras)  
-[Dokumentáció](#dok)
-  [Funkcionális követelmények](#funkKov)
-  [Nem funkcionális követelmények](#nemFunkKov)
+[Leírás](#leiras)  &nbsp
+[Dokumentáció](#dok)&nbsp
+  [Funkcionális követelmények](#funkKov)&nbsp
+  [Nem funkcionális követelmények](#nemFunkKov)&nbsp
 
 <a name="headers"/>
 <h3>
