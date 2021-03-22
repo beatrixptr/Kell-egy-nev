@@ -29,5 +29,6 @@ Leírás
 <h3>Nem funkcionális:</h3>
 &nbsp;&nbsp;&nbsp;-MSSQL használata
 </a>
-
+<a name="useCase"/><h3>Use-case diagram:</h3><br></a>
+![image](https://user-images.githubusercontent.com/79631886/112019054-5f170500-8b2f-11eb-9022-958dd9ead417.png)
 
