@@ -1,7 +1,7 @@
 # Kell-egy-nev
 
 
-##### 📜 Tartalomjegyzék
+## 📜 Tartalomjegyzék
 [Leírás](#headers)  
 
 
